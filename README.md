@@ -8,4 +8,4 @@ The twb file shows the visulaization using tableau, the story borad along with t
 
 csv file is the kaggle visualization dataset - global cost of living
 
-<img src="file:///C:/Users/sadha/Documents/Semester%202/visualization/Submission%20files/global_cost_of_living_dashboard.pdf">
+<img src="dashboard.jpg">
